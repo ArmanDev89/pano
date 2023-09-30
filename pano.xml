@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="17904" appversion="6.1.3">
+  <input leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="5235" width="5235" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+    <level height="5235" width="5235" predecode="0" preload="0"/>
+    <level height="2617" width="2617" predecode="0" preload="0"/>
+    <level height="1308" width="1308" predecode="0" preload="0"/>
+    <level height="654" width="654" predecode="0" preload="0"/>
+    <level height="327" width="327" predecode="1" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start fov="70" pan="0" projection="4" tilt="0"/>
+    <flyin fov="37.5" pan="42.47" projection="4" tilt="-5.75"/>
+    <min pan="-180" fovpixel="2" tilt="-24.5"/>
+    <max fov="120" pan="180" fovstereographic="270" fovfisheye="360" tilt="13"/>
+  </view>
+  <userdata datetime="07.06.2022 10:53" longitude="" description="" copyright="" source="" latitude="" nodeid="node1" author="" comment="" customnodeid="" heading="0" title="" info="" tags="Рабочий стол"/>
+  <hotspots wordwrap="1" height="20" width="180">
+    <label wordwrap="1" background="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1" border="1"/>
+    <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition zoomspeed="2" type="crossdissolve" zoomoutpause="1" blendtime="1" enabled="1" zoomout="0" zoomfov="20" blendcolor="0x000000" zoomin="0" softedge="0"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control invertwheel="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" simulatemass="1"/>
+</panorama>
